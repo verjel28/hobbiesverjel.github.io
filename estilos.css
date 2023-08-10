@@ -1,0 +1,17 @@
+
+body {
+    font-family: sans-serif;
+}
+
+.contenedor{
+    background-color:  whitesmoke;
+    height: 200vh;
+    margin: 2.5%; 
+}
+
+
+section{
+    text-align: center;
+}
+
+ 
